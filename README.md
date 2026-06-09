@@ -1,7 +1,7 @@
 Hi 👋 My name is Hariharan
 ==========================
 
-Chief Technical Architect
+Chief Technology Officer @ DataEquinox
 -------------------------
 
 
